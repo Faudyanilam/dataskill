@@ -1,0 +1,169 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EXCELITAS
+build_property.RootNamespace = EXCELITAS
+build_property.ProjectDir = D:\New folder\EXCELITAS\EXCELITAS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\New folder\EXCELITAS\EXCELITAS
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminApproval/DetailApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHByb3ZhbFxEZXRhaWxBcHByb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminApproval/DetailApprovalInputBaru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHByb3ZhbFxEZXRhaWxBcHByb3ZhbElucHV0QmFydS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminApproval/MenuAdminApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHByb3ZhbFxNZW51QWRtaW5BcHByb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminApproval/_LayoutAdminApproval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHByb3ZhbFxfTGF5b3V0QWRtaW5BcHByb3ZhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminOperasional/MenuAdminOperasional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5PcGVyYXNpb25hbFxNZW51QWRtaW5PcGVyYXNpb25hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminOperasional/UpdateApprovedData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5PcGVyYXNpb25hbFxVcGRhdGVBcHByb3ZlZERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/AdminOperasional/_LayoutAdminOperasional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5PcGVyYXNpb25hbFxfTGF5b3V0QWRtaW5PcGVyYXNpb25hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/MenuAdminInput.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51QWRtaW5JbnB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/MenuAdminView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51QWRtaW5WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/SaveDataCSV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlRGF0YUNTVi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/SaveDataInput.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlRGF0YUlucHV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Home/_LayoutAwal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTGF5b3V0QXdhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/LayoutSkillData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXExheW91dFNraWxsRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/MasterTraining.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXE1hc3RlclRyYWluaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/MenuSkillData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXE1lbnVTa2lsbERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/SubTrainingMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFN1YlRyYWluaW5nTWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/SubTrainingTransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFN1YlRyYWluaW5nVHJhbnNhY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/Tambah_MasterTraining.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRhbWJhaF9NYXN0ZXJUcmFpbmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/Tambah_SubTrainingMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRhbWJhaF9TdWJUcmFpbmluZ01hc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/Tambah_SubTrainingTransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRhbWJhaF9TdWJUcmFpbmluZ1RyYW5zYWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/Tambah_TrackingTraining.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRhbWJhaF9UcmFja2luZ1RyYWluaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/Tambah_TrainingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRhbWJhaF9UcmFpbmluZ0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/TrackingTraining.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRyYWNraW5nVHJhaW5pbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SkillData/TrainingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxEYXRhXFRyYWluaW5nTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SuperAdmin/ListGradeOrLevel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwZXJBZG1pblxMaXN0R3JhZGVPckxldmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SuperAdmin/MenuSuperAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwZXJBZG1pblxNZW51U3VwZXJBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SuperAdmin/SaveGradeOrLevel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwZXJBZG1pblxTYXZlR3JhZGVPckxldmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SuperAdmin/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwZXJBZG1pblxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/SuperAdmin/_LayoutSuperAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwZXJBZG1pblxfTGF5b3V0U3VwZXJBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/EXCELITAS/EXCELITAS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

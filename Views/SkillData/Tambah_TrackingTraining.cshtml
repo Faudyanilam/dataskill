@@ -1,0 +1,48 @@
+﻿@inject IHttpContextAccessor Accessor
+
+@{
+    Layout = "LayoutSkillData";
+}
+
+<div class="card mt-5">
+    <div class="card-header bg-secondary text-white">Form Input Data @* as @Accessor.HttpContext.Session.GetString("Username") with role = @Accessor.HttpContext.Session.GetInt32("Role")*@</div>
+    <div class="card-body">
+
+        <div class="form-group">
+            <label>ID TrackingTraining</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="ID TrackingTraining">
+        </div>
+        <div class="form-group">
+            <label>CC_Grade</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="CC_Grade TrackingTraining">
+        </div>
+        <div class="form-group">
+            <label>Jobpost</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nama TrackingTraining">
+        </div>
+        <div class="form-group">
+            <label>Training Name</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nama TrackingTraining">
+        </div>
+        <div class="form-group">
+            <label>Input Date</label>
+            <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Nama JobFunction">
+        </div>
+        <div class="form-group">
+            <label>Update Date</label>
+            <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Nama JobFunction">
+        </div>
+        <div class="form-group">
+            <label>Update By</label>
+            <input type="date" class="form-control" id="exampleInputEmail1" placeholder="Nama JobFunction">
+        </div>
+    </div>
+
+    <a>
+        <button type="submit" class="btn btn-primary" value="Save">Submit</button>
+        <button type="reset" class="btn btn-danger">Reset</button>
+    </a>
+    </br>
+
+
+
